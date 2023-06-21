@@ -23,8 +23,7 @@ I'm a novice Frontend Developer with a strong passion for exploring new technolo
 [![HTML Badge](https://img.shields.io/badge/html-black?style=for-the-badge&logo=HTML5&logoColor=%23E34F26&labelColor=black&color=%23E34F26)](#)
 [![CSS Badge](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3&logoColor=%231572B6&labelColor=black&color=%231572B6)](#)
 [![StyledComponents Badge](https://img.shields.io/badge/styled_components-black?style=for-the-badge&logo=styled-components&logoColor=%23DB7093&labelColor=black&color=%23DB7093)](#)
-[![Static Badge](https://img.shields.io/badge/canva-black?style=for-the-badge&logo=canva&logoColor=%2300C4CC&labelColor=black&color=%2300C4CC)](#)
-[![Static Badge](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=%23F05032&labelColor=black&color=%23F05032)](#)
+[![Canva Badge](https://img.shields.io/badge/canva-black?style=for-the-badge&logo=canva&logoColor=%2300C4CC&labelColor=black&color=%2300C4CC)](#)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2F81F7&width=435&lines=Welcome+to+my+coding+realm!;Hello+world%2C+let's+code!;Let's+code+and+conquer!;Hello%2C+fellow+coders!;Coding%3A+where+logic+meets+creativity.;Passionate+about+pixels+and+code.;Creating+magic+line+by+line.)](https://git.io/typing-svg)
 
