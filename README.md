@@ -15,6 +15,8 @@ I'm a novice Frontend Developer with a strong passion for exploring new technolo
 
 ### 👩‍💻 &nbsp;**[My personal homepage](https://kajakopczynska.github.io/personal-homepage/)**
 
+### 📽️ &nbsp;**[My last project - Movies Browser 🎬 🎞️](https://kajakopczynska.github.io/movies-browser/#/movies)**
+
 ### Technologies
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
@@ -26,7 +28,3 @@ I'm a novice Frontend Developer with a strong passion for exploring new technolo
 [![Canva Badge](https://img.shields.io/badge/canva-black?style=for-the-badge&logo=canva&logoColor=%2300C4CC&labelColor=black&color=%2300C4CC)](#)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2F81F7&width=435&lines=Welcome+to+my+coding+realm!;Hello+world%2C+let's+code!;Let's+code+and+conquer!;Hello%2C+fellow+coders!;Coding%3A+where+logic+meets+creativity.;Passionate+about+pixels+and+code.;Creating+magic+line+by+line.)](https://git.io/typing-svg)
-
-
-
-
