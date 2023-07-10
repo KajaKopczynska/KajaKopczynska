@@ -17,6 +17,8 @@ I'm a novice Frontend Developer with a strong passion for exploring new technolo
 
 ### 📽️ &nbsp;**[My last project - Movies Browser 🎬 🎞️](https://kajakopczynska.github.io/movies-browser/#/movies)**
 
+### 🛠️ &nbsp;**[I'm currently working on - ECommerce Website 🛒](https://kajakopczynska.github.io/market-web/)**
+
 ### Technologies
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 

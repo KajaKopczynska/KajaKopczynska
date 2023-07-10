@@ -1,0 +1,12 @@
+{
+  "name": "kajakopczynska",
+  "version": "1.0.0",
+  "description": "<div>\r   <ul align=\"center\">\r     <summary><h1 style=\"display: inline-block\">Hi there! 👋</h1></summary>\r   </ul>\r </div>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "author": "",
+  "license": "ISC"
+}
